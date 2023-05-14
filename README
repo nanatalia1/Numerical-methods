@@ -1,0 +1,15 @@
+This repository collects my project prepared for a Numerical Methods course (at GUT). 
+
+First project - MACD Trading indicator
+This project is an implementation of MACD (moving average convergence/divergence) trading indicator. 
+It contains a sample usage, prepared on real gold shares from 2020 to 2023. 
+A simulation of buying and selling shares has been included. The following libraries have been included: pandas, matplotlib, and datetime.
+
+Second project - Systems of linear equations
+This project implements various methods of solving systems of linear equations. 
+The following methods were implemented: 
+  -Jacobi's, 
+  -Gauss-Seidel, 
+  -LU_factorization. 
+  Morover, this project was created withou using numpy library, meaning the operations on matrices were implemented.
+  The following libraries have been included: pandas, math, and time.
